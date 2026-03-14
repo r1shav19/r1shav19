@@ -33,8 +33,6 @@ Pokemon-style RPG engine built in Godot with dialogue systems, quest manager, an
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=r1shav19&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r1shav19&layout=compact&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-AI-blue)
