@@ -6,14 +6,17 @@ I build intelligent systems combining AI, automation, and interactive software.
 
 ## 🚀 Featured Projects
 
-🔐 ClarifyGuard-AI  
-Explainable AI cybersecurity firewall that protects users from phishing while educating them in real time.
+🔰 Project-SentinelNET
+SentinelNET is an advanced MLSecOps platform designed to protect live AI models from concept drift and adversarial data poisoning.
 
 ⚙️ MLOps Self-Healing Pipeline  
 Machine learning lifecycle pipeline with model tracking, drift detection, retraining and deployment.
 
 🤖 Puzzle AI Voice Assistant  
 Local AI assistant with wake-word detection, speech recognition, and automation commands.
+
+🔐 ClarifyGuard-AI  
+Explainable AI cybersecurity firewall that protects users from phishing while educating them in real time.
 
 🧠 MRI Brain Tumor Detection  
 Machine learning model for tumor classification from MRI scans.
