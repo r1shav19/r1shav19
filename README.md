@@ -6,7 +6,7 @@ I build intelligent systems combining AI, automation, and interactive software.
 
 ## 🚀 Featured Projects
 
-🔰 Project-SentinelNET
+🔰 Project SentinelNET  
 SentinelNET is an advanced MLSecOps platform designed to protect live AI models from concept drift and adversarial data poisoning.
 
 ⚙️ MLOps Self-Healing Pipeline  
